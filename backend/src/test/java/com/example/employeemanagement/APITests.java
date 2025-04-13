@@ -15,7 +15,7 @@ import java.util.Optional;
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.assertj.core.api.Assertions.setRemoveAssertJRelatedElementsFromStackTrace;
 
-/** This class implements unit tests for the EmployeeManagementApplication. */
+/** This class implements unit tests for the EmployeeManagementApplication.StaffSYnc */
 @DataJpaTest
 @Transactional
 public class APITests {
